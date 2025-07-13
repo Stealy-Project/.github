@@ -26,7 +26,7 @@
       Sans
     </td>
     <td align="center" width="50%">
-      <img src="https://senju.cc/images/pfp.jpg" alt="Senju" width="150" height="150"><br>
+      <img src="https://avatars.githubusercontent.com/u/212520235?v=4" alt="7z" width="150" height="150"><br>
       <strong>Développeur Secondaire</strong><br>
       Senju
     </td>
