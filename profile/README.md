@@ -28,7 +28,7 @@
     <td align="center" width="50%">
       <img src="https://avatars.githubusercontent.com/u/212520235?v=4" alt="7z" width="150" height="150"><br>
       <strong>Développeur Secondaire</strong><br>
-      Senju
+      7z
     </td>
   </tr>
 </table>
