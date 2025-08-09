@@ -24,11 +24,5 @@
       <img src="https://avatars.githubusercontent.com/u/99873347?v=4" alt="Sans" width="150" height="150"><br>
       <strong>Développeur Principal</strong><br>
       Sans
-    </td>
-    <td align="center" width="50%">
-      <img src="https://avatars.githubusercontent.com/u/212520235?v=4" alt="7z" width="150" height="150"><br>
-      <strong>Développeur Secondaire</strong><br>
-      7z
-    </td>
   </tr>
 </table>
